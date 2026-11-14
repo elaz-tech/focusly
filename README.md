@@ -71,7 +71,7 @@ Focusly is built with a "Privacy First" philosophy.
 
 - **Zero Data Collection:** We do not collect, store, or transmit any user data. All processing happens locally on your device.
 - **Transparent Permissions:** Permissions are used exclusively for focus enforcement.
-- **Legal:** View our full [Privacy Policy](https://supporteaf.netlify.app/pages/privacy_policy_focusly.html).
+- **Legal:** View our full [Privacy Policy](https://support-elaz.netlify.app/pages/privacy_policy/focusly.html).
 
 ---
 

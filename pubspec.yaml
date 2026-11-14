@@ -1,0 +1,35 @@
+name: focusly
+description: "Focusly helps you reclaim your attention. Set a timer from 1 to 120 minutes and your phone stays locked until it expires — only phone calls get through. Bypass attempts are blocked automatically, with an optional long-press emergency escape for genuine emergencies. Less scrolling, more living."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.3+3
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.4
+  flutter_launcher_icons: ^0.14.4
+  package_info_plus: ^9.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
+
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/icon/
+    - assets/fea/icon.png

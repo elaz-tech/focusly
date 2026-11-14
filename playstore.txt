@@ -1,0 +1,52 @@
+FOCUSLY — GOOGLE PLAY LISTING
+================================
+
+SHORT DESCRIPTION (80 characters max)
+-------------------------------------
+Lock your phone and stay focused. Only calls get through until time is up.
+
+
+FULL DESCRIPTION (4000 characters max)
+--------------------------------------
+Can't stop checking your phone? Focusly locks it for you.
+
+Set a timer from 1 to 120 minutes and your phone stays locked until it
+expires. No feeds, no chats, no "just one quick check". Incoming and
+outgoing phone calls always work, so you stay reachable for what truly
+matters — and nothing else.
+
+HOW IT WORKS
+- Pick a duration (1–120 minutes) and tap START FOCUSING.
+- Your phone locks: notifications are silenced, other apps are blocked.
+- When the timer ends, your phone unlocks automatically.
+
+BUILT TO KEEP YOU HONEST
+- Iron Curtain overlay: a full-screen barrier appears if you try to leave.
+- Enforced mode: opening other apps or system panels snaps you back.
+- Self-healing watchdog: the lock relaunches itself if the system stops it.
+- Tamper-proof timer: changing the system clock can't end a session early.
+- Emergency escape (optional): a long-press hatch for genuine emergencies.
+  Disable it in Settings for a stricter lock.
+
+STAYS RELIABLE ON YOUR DEVICE
+- Guided setup for Do Not Disturb, overlay, and accessibility permissions.
+- Battery-optimization exemption and auto-start help for Xiaomi, Oppo,
+  Vivo, and Huawei devices.
+
+PERMISSIONS — WHY WE NEED THEM
+- Do Not Disturb access: silences notifications during a lock. Calls pass through.
+- Display over other apps: shows the focus barrier if you try to switch apps.
+- Accessibility service: detects app-switching and blocks bypass attempts
+  while a lock is active. Never collects or transmits any data.
+- Ignore battery optimizations (optional): keeps long sessions alive.
+
+PRIVACY FIRST
+Zero data collection. Everything runs locally on your device. No accounts,
+no tracking, no ads.
+Privacy policy: https://supporteaf.netlify.app/pages/privacy_policy_focusly.html
+
+PLEASE NOTE
+- Like all Android lockers, Focusly can't block a hardware-level Safe Mode boot.
+- Focusly is Android-only.
+
+Less scrolling, more living. Install Focusly and take back your attention.
